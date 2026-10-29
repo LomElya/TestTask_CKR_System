@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd82acd6403132043a0abcd9f16c6322, type: 3}
+  m_Name: WeatherConfig
+  m_EditorClassIdentifier: 
+  _maximumForecastDays: 7
+  _weatherPollingIntervalSeconds: 5
+  _periodPrefab: {fileID: 6828395713128131038, guid: 191ce159c5bafab4bbdf2c3b7ceb4259, type: 3}
+  _initialPeriodPoolSize: 2
+  _weatherDayPrefab: {fileID: 1423668003207688217, guid: 8d6658c91a1f7b3429c95e14c21d432c, type: 3}
+  _initialDayPoolSize: 7

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 593fd4852a7eb2647a007aa0aedf211e, type: 3}
+  m_Name: ClickerBalanceConfig
+  m_EditorClassIdentifier: 
+  _currencyPerClick: 1
+  _maximumEnergy: 1000
+  _initialEnergy: 1000
+  _manualClickEnergyCost: 1
+  _autoClickEnergyCost: 1
+  _energyRestoreIntervalSeconds: 10
+  _energyRestoreAmount: 10
+  _autoClickIntervalSeconds: 3
+  _pressedScale: 0.88
+  _buttonAnimationDuration: 0.15
+  _currencyFlightDuration: 0.65
+  _currencyFlightDistance: 140
+  _particleBurstDuration: 0.55
+  _particleBurstDistance: 190
+  _currencyFlyViewPrefab: {fileID: 473402743487634378, guid: 5fe0836462533194890bc56b9335e9ae, type: 3}
+  _currencyFlyViewPoolSize: 8
+  _collectSound: 2
