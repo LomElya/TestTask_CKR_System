@@ -4944,6 +4944,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 10151101901555580, guid: 0fe4cba07e210794ea2c5dd9a42469fa, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 10151101901555580, guid: 0fe4cba07e210794ea2c5dd9a42469fa, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 10151101901555580, guid: 0fe4cba07e210794ea2c5dd9a42469fa, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 976
+      objectReference: {fileID: 0}
+    - target: {fileID: 606194657131077267, guid: 0fe4cba07e210794ea2c5dd9a42469fa, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 606194657131077267, guid: 0fe4cba07e210794ea2c5dd9a42469fa, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 606194657131077267, guid: 0fe4cba07e210794ea2c5dd9a42469fa, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -460.00003
+      objectReference: {fileID: 0}
     - target: {fileID: 1906273203702739861, guid: 0fe4cba07e210794ea2c5dd9a42469fa, type: 3}
       propertyPath: m_SizeDelta.y
       value: 0
@@ -4967,6 +4991,10 @@ PrefabInstance:
     - target: {fileID: 4035630707264441696, guid: 0fe4cba07e210794ea2c5dd9a42469fa, type: 3}
       propertyPath: m_SizeDelta.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5442613570855110837, guid: 0fe4cba07e210794ea2c5dd9a42469fa, type: 3}
+      propertyPath: _animationType
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6092486528375326409, guid: 0fe4cba07e210794ea2c5dd9a42469fa, type: 3}
       propertyPath: m_AnchorMax.y
